@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:/img/
+
+Sitemap:http://sniffilicious.byethost16.com/sitemap.xml
